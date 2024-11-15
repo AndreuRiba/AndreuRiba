@@ -7,9 +7,9 @@ Soy un desarrollador apasionado por la tecnología, con ganas de aprender y mejo
 - **Animales:** Los animales son una parte importante de mi vida. De hecho, tengo un gato adorable que siempre me acompaña. 🐱
   
 ### 💻 Mis habilidades:  
-- Lenguajes: Python, JavaScript, y C++.  
-- Herramientas: Git, VS Code, y Linux.  
-- Aprendiendo: Desarrollo web y nuevas tecnologías.  
+- Lenguajes: Python, Java y SQL 
+- Herramientas: Git, VS Code, IntelliJ y VirtualBox 
+- Aprendiendo: Desarrollo de aplicaciones multimedia y nuevas tecnologías.  
 
 ¡Gracias por pasar por aquí! 🚀  
 
