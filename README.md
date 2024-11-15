@@ -3,8 +3,8 @@ un desarrollador que disfruta con la tecnología, muchas ganas de aprender y mej
 
 ### 🎵 Sobre mí:  
 - **Música:** Me encanta descubrir nuevos géneros y siempre tengo una playlist lista para cada momento. 🎧  
-- **Deportes:** Disfruto mantenerme activo y seguir eventos deportivos. ⚽🏀  
-- **Animales:** Los animales son una parte importante de mi vida. De hecho, tengo un gato adorable que siempre me acompaña. 🐱
+- **Deportes:** Disfruto mantenerme activo y seguir eventos deportivos, especialmente fútbol y baloncesto. ⚽🏀  
+- **Animales:** Los animales son una parte importante de mi vida. 🐱
   
 ### 💻 Mis habilidades:  
 - Lenguajes: Python, Java y SQL
