@@ -1,7 +1,18 @@
-👋 Hi, I’m Andreu Riba
-👀 I’m interested in sports, music, and in programing
-🌱 I’m currently learning how to be a good developer
-📫 How to reach me: Using my mail
+👋 Hola, soy Andreu Riba
+Soy un desarrollador apasionado por la tecnología, con ganas de aprender y mejorar constantemente. Actualmente, estoy cursando una carrera en programación y disfrutando del proceso de resolver problemas y crear soluciones prácticas.
+
+### 🎵 Sobre mí:  
+- **Música:** Me encanta descubrir nuevos géneros y siempre tengo una playlist lista para cada momento. 🎧  
+- **Deportes:** Disfruto mantenerme activo y seguir eventos deportivos. ⚽🏀  
+- **Animales:** Los animales son una parte importante de mi vida. De hecho, tengo un gato adorable que siempre me acompaña. 🐱
+  
+### 💻 Mis habilidades:  
+- Lenguajes: Python, JavaScript, y C++.  
+- Herramientas: Git, VS Code, y Linux.  
+- Aprendiendo: Desarrollo web y nuevas tecnologías.  
+
+¡Gracias por pasar por aquí! 🚀  
+
 
 
 <!---
