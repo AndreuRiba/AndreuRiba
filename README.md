@@ -1,5 +1,5 @@
-👋 Hola, soy Andreu Riba
-Soy un desarrollador que disfruta con la tecnología, muchas ganas de aprender y mejorar constantemente. Actualmente, estoy cursando un grado superior en programación y disfrutando del proceso de resolver problemas y crear soluciones prácticas.
+👋 Hola, soy Andreu Riba.
+Un desarrollador que disfruta con la tecnología, muchas ganas de aprender y mejorar constantemente. Actualmente, estoy cursando un grado superior en programación y disfrutando del proceso de resolver problemas y crear soluciones prácticas.
 
 ### 🎵 Sobre mí:  
 - **Música:** Me encanta descubrir nuevos géneros y siempre tengo una playlist lista para cada momento. 🎧  
